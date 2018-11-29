@@ -1,0 +1,95 @@
+{
+  "control": {
+    "expires": 1800
+  },
+  "status": 0,
+  "data": {
+    "hasNext": false,
+    "movies":[{
+      "src":"      https://p1.meituan.net/170.230/movie/b349982a1c2bbf01407696e7d95066cb580557.jpg",
+      "nm":"海王",
+      "date":"12月7日",
+      "want":"167733",
+      "star":"兰道尔·朴,杰曼·翰苏,雷·沃纳尔,格拉汉姆,特穆拉,叶海亚",
+      "id":1
+    },{
+      "src":"https://p1.meituan.net/170.230/movie/c7453592d38b7aff6a774a52732792cd3778866.jpg",
+      "nm":"人间·喜剧",
+      "date":"12月7日",
+      "want":"149829",
+      "star":"艾伦,王智,鲁诺,金士杰, 任达华",
+      "id":2
+    },{
+      "src":"https://p1.meituan.net/170.230/movie/9cd36871e75c756f3ad175afa6452cf2177292.jpg",
+      "nm":"疯狂的外星人",
+      "date":"2019年2月5日",
+      "want":"97584",
+      "star":"刘慈欣、孙小杭编剧，黄渤、沈腾",
+      "id":3
+    },{
+      "src":"https://p0.meituan.net/170.230/movie/e5f0a55327d5be1caa9f110abcca23865841112.jpg",
+      "nm":"飞驰人生",
+      "date":"2019年2月5日",
+      "want":"92703",
+      "star":"沈腾, 黄景瑜,尹正,尹昉,腾格尔,赵文瑄,张本煜,刘帅良",
+      "id":4
+    },{
+      "src":"https://p1.meituan.net/170.230/movie/db6d90ee9ff6fd6646f59bac2a6e05371954398.jpg",
+      "nm":"云南虫谷",
+      "date":"12月29日",
+      "want":"65206",
+      "star":"蔡珩,顾璇,于恒,成泰燊,马浴柯, 陈雨锶",
+      "id":5
+    },{
+      "src":"https://p0.meituan.net/170.230/movie/9b3c1b3a7729058950d08be30e9fffe0611181.jpg",
+      "nm":"武林怪兽",
+      "date":"12月21日",
+      "want":"75840",
+      "star":"古天乐,周冬雨,郭碧婷,,包贝尔,林家栋",
+      "id":6
+    },{
+      "src":"https://p0.meituan.net/170.230/movie/b43d03c588374cc7bf678e9d4b0cbb20701307.jpg",
+      "nm":"营救汪星人",
+      "date":"2019年1月11日",
+      "want":"61492",
+      "star":"成毅,拉布拉多饰,中华田园犬",
+      "id":7
+    },{
+      "src":"https://p0.meituan.net/170.230/movie/c304c687e287c7c2f9e22cf78257872d277201.jpg",
+      "nm":"龙猫",
+      "date":"12月14日",
+      "want":"53301",
+      "star":"宫崎骏执导，日高法子、坂本千夏、糸井重里配音",
+      "id":8
+    },{
+      "src":"https://p0.meituan.net/170.230/movie/407c19f8097e0cc5ab27356b47865fed981837.jpg",
+      "nm":"神探蒲松龄",
+      "date":"2019年2月14日",
+      "want":"35312",
+      "star":"成龙、阮经天、钟楚曦",
+      "id":9
+    },{
+      "src":"https://p1.meituan.net/170.230/movie/089376f7781f4b4ab02f3ce3f04d0ef43031593.jpg",
+      "nm":"流浪地球",
+      "date":"2019年2月5日",
+      "want":"85312",
+      "star":"屈楚萧,李光洁,吴孟达,赵今麦,隋凯,屈菁菁",
+      "id":10
+    },{
+      "src":"https://p1.meituan.net/170.230/movie/38e5797710258e1043ba708cd361d8331771520.jpg",
+      "nm":"碟仙实录",
+      "date":"12月8日",
+      "want":"38487",
+      "star":"李漫荻,齐炫宇,马丁,谢易真,郭家麟,许娜",
+      "id":11
+    },{
+      "src":"https://p1.meituan.net/170.230/movie/a0bdf62696153700a164895aa2cf18d51018858.jpg",
+      "nm":"动物特工局",
+      "date":"2019年2月18日",
+      "want":"85312",
+      "star": "胡良伟,马正阳,韩啸,吟良犬,大象,汤水雨",
+      "id":12
+    }
+  ]
+  }
+}

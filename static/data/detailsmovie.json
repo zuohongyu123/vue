@@ -1,0 +1,56 @@
+{
+  "control": {
+    "expires": 1800
+  },
+  "status": 0,
+  "data": {
+    "hasNext": false,
+    "actor": [{
+      "img":"https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p324.jpg",
+      "star":" Director",
+      "peop":"导演",
+      "id":1
+    },{
+      "img":"https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p49047.jpg",
+      "star":"张涵予",
+      "peop":"杜丘 ",
+      "id":2
+    },{
+      "img":"https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1209.jpg",
+      "star":"福山雅治",
+      "peop":"矢村",
+      "id":3
+    },{
+      "img":"https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1372149905.48.jpg",
+      "star":"戚薇",
+      "peop":"真由美",
+      "id":4
+    },{
+      "img":"https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p34373.jpg",
+      "star":"河智苑",
+      "peop":"紫雨",
+      "id":5
+    },{
+      "img":"https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p6093.jpg",
+      "star":" 酒井义广 ",
+      "peop":"国村隼",
+      "id":6
+    },{
+      "img":"https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1474.jpg",
+      "star":"竹中直人",
+      "peop":"Actor",
+      "id":7
+    },{
+      "img":"https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1406723462.9.jpg",
+      "star":"樱庭奈奈美",
+      "peop":"里香",
+      "id":8
+    },{
+      "img":"https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1381837290.77.jpg",
+      "star":"冈本多绪",
+      "peop":"Kiko Tanaka",
+      "id":9
+    }
+  ]
+  }
+}
